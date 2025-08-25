@@ -1,0 +1,2 @@
+Date : 2025-08-06T21:17:50.569, Thread Name : main, Log Level : FATAL, Message : New Fatal occured
+Date : 2025-08-06T22:15:17.808, Thread Name : main, Log Level : FATAL, Message : New Fatal occured

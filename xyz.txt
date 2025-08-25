@@ -1,0 +1,10 @@
+Date : 2025-07-19T22:11:40.175, Thread Name : main, Log Level : WARNING, Message : Hello, How are you
+Date : 2025-07-19T22:11:40.190, Thread Name : main, Log Level : FATAL, Message : Thank You
+Date : 2025-07-19T22:11:40.190, Thread Name : main, Log Level : DEBUG, Message : Testing Logging System
+Date : 2025-07-19T22:11:40.190, Thread Name : main, Log Level : WARNING, Message : Hello, How are you
+Date : 2025-07-19T22:11:40.190, Thread Name : main, Log Level : FATAL, Message : Thank You
+Date : 2025-07-20T22:30:54.963, Thread Name : main, Log Level : WARNING, Message : Hello, How are you
+Date : 2025-07-20T22:30:54.979, Thread Name : main, Log Level : FATAL, Message : Thank You
+Date : 2025-07-20T22:30:54.979, Thread Name : main, Log Level : DEBUG, Message : Testing Logging System
+Date : 2025-07-20T22:30:54.984, Thread Name : main, Log Level : WARNING, Message : Hello, How are you
+Date : 2025-07-20T22:30:54.984, Thread Name : main, Log Level : FATAL, Message : Thank You
