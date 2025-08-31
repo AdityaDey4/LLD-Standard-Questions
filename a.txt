@@ -1,6 +1,0 @@
-Date : 2025-08-06T21:17:50.565, Thread Name : main, Log Level : WARNING, Message : This is a warning message
-Date : 2025-08-06T21:17:50.569, Thread Name : main, Log Level : FATAL, Message : New Fatal occured
-Date : 2025-08-06T21:17:50.571, Thread Name : main, Log Level : INFO, Message : Info log at Main.java
-Date : 2025-08-06T22:15:17.800, Thread Name : main, Log Level : WARNING, Message : This is a warning message
-Date : 2025-08-06T22:15:17.808, Thread Name : main, Log Level : FATAL, Message : New Fatal occured
-Date : 2025-08-06T22:15:17.812, Thread Name : main, Log Level : INFO, Message : Info log at Main.java
